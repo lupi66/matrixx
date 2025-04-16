@@ -13,6 +13,7 @@ B = [
     [4, 8, 7, 5, 4],
     [3, 9, 6, 7, 5]
 ]
+
 hasil_perkalian = []
 
 for i in range(5):
@@ -24,11 +25,9 @@ for i in range(5):
         baris.append(total)
     hasil_perkalian.append(baris)
 
-
 print("Hasil = ")
 for baris in hasil_perkalian:
     print(baris)
-
 
 print("Hasil Perkalian Matrix 5 x 5:")
 for baris in C:
