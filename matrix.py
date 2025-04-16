@@ -28,7 +28,3 @@ for i in range(5):
 print("Hasil = ")
 for baris in hasil_perkalian:
     print(baris)
-
-print("Hasil Perkalian Matrix 5 x 5:")
-for baris in C:
-    print(baris)
